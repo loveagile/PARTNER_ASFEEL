@@ -1,0 +1,18 @@
+.select_prefecture {
+  width: 9.4rem !important;
+}
+
+.select_prefecture > div {
+  height: 1.6rem !important;
+}
+
+.action_button {
+  padding: 4px 10px;
+  border-radius: 4px;
+  margin-right: 40px;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+}
+
+.select_prefecture > .ant-select-selection-item {
+  display: none;
+}

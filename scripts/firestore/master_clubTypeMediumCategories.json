@@ -1,0 +1,130 @@
+[
+  {
+    "id": "0252ZBSJ3iNIKIjT02SF",
+    "createdAt": 1688696406597,
+    "updatedAt": 1688696406597,
+    "largeCategory": "oPSsTOVpxegNiC0oa8zB",
+    "name": "三道",
+    "order": 110
+  },
+  {
+    "id": "0iSofIVavFVohIjup6jC",
+    "createdAt": 1688696407442,
+    "updatedAt": 1688696407442,
+    "largeCategory": "oPSsTOVpxegNiC0oa8zB",
+    "name": "技術・家庭科",
+    "order": 130
+  },
+  {
+    "id": "HeC4E2JUAueeMnEGBL4l",
+    "createdAt": 1688694773378,
+    "updatedAt": 1688694773378,
+    "largeCategory": "tybsF7H5A4LahHYOCecg",
+    "name": "その他",
+    "order": 160
+  },
+  {
+    "id": "J6TOp4ztzuJxm7GHg2KD",
+    "createdAt": 1688696401666,
+    "updatedAt": 1688696401666,
+    "largeCategory": "oPSsTOVpxegNiC0oa8zB",
+    "name": "芸術・音楽",
+    "order": 100
+  },
+  {
+    "id": "K9CTVnFidrNAdUMijPN3",
+    "createdAt": 1688694772544,
+    "updatedAt": 1688694772544,
+    "largeCategory": "tybsF7H5A4LahHYOCecg",
+    "name": "採点競技",
+    "order": 70
+  },
+  {
+    "id": "LYd3EPRrDOHZPoTH8aAt",
+    "createdAt": 1688694764101,
+    "updatedAt": 1688694764101,
+    "largeCategory": "tybsF7H5A4LahHYOCecg",
+    "name": "球技：ゴール型",
+    "order": 10
+  },
+  {
+    "id": "TCkxjifrg3d5tX9neb2W",
+    "createdAt": 1688694770701,
+    "updatedAt": 1688694770701,
+    "largeCategory": "tybsF7H5A4LahHYOCecg",
+    "name": "球技：ベースボール型・その他",
+    "order": 30
+  },
+  {
+    "id": "U3W0bPzO4RsMR12XHmSk",
+    "createdAt": 1688694770234,
+    "updatedAt": 1688694770234,
+    "largeCategory": "tybsF7H5A4LahHYOCecg",
+    "name": "球技：ネット型",
+    "order": 20
+  },
+  {
+    "id": "daxPaVflMDIGXRenGqYA",
+    "createdAt": 1688694772073,
+    "updatedAt": 1688694772073,
+    "largeCategory": "tybsF7H5A4LahHYOCecg",
+    "name": "射的スポーツ",
+    "order": 60
+  },
+  {
+    "id": "iq8yq2hIClDf7GmFmieL",
+    "createdAt": 1688696408283,
+    "updatedAt": 1688696408283,
+    "largeCategory": "oPSsTOVpxegNiC0oa8zB",
+    "name": "学問",
+    "order": 150
+  },
+  {
+    "id": "kKw3lwy0kN4Sz8CNCtNq",
+    "createdAt": 1688696407019,
+    "updatedAt": 1688696407019,
+    "largeCategory": "oPSsTOVpxegNiC0oa8zB",
+    "name": "マインドスポーツ",
+    "order": 120
+  },
+  {
+    "id": "lo2nnXh2uUf1JhPrirIL",
+    "createdAt": 1688696407859,
+    "updatedAt": 1688696407859,
+    "largeCategory": "oPSsTOVpxegNiC0oa8zB",
+    "name": "メディア",
+    "order": 140
+  },
+  {
+    "id": "n6FiK2U9BAGtF35vLCqn",
+    "createdAt": 1688694771609,
+    "updatedAt": 1688694771610,
+    "largeCategory": "tybsF7H5A4LahHYOCecg",
+    "name": "武道・格闘技",
+    "order": 50
+  },
+  {
+    "id": "sMOVeLiFGhDD4gTnYjxM",
+    "createdAt": 1688694772959,
+    "updatedAt": 1688694772959,
+    "largeCategory": "tybsF7H5A4LahHYOCecg",
+    "name": "野外活動・氷上",
+    "order": 80
+  },
+  {
+    "id": "uOYuHsEyEIu477wkRUQj",
+    "createdAt": 1688696408704,
+    "updatedAt": 1688696408704,
+    "largeCategory": "oPSsTOVpxegNiC0oa8zB",
+    "name": "その他",
+    "order": 160
+  },
+  {
+    "id": "z58MJEtkJmsIDymxuDHB",
+    "createdAt": 1688694771175,
+    "updatedAt": 1688694771175,
+    "largeCategory": "tybsF7H5A4LahHYOCecg",
+    "name": "記録競技",
+    "order": 40
+  }
+]

@@ -1,0 +1,31 @@
+.pagination_table {
+  :global {
+    .ant-pagination-item a {
+      @apply text-h2 text-gray-gray_dark;
+    }
+
+    .ant-pagination-item-active {
+      border: 0;
+    }
+
+    .ant-pagination-item-active a {
+      @apply text-gray-black;
+    }
+
+    .ant-pagination-item-active:hover a {
+      @apply text-gray-black;
+    }
+  }
+}
+
+.table {
+  @apply mb-10;
+
+  :global {
+    .ant-table-footer {
+      background-color: transparent;
+      text-align: center;
+      @apply mt-10 pb-0 text-body;
+    }
+  }
+}

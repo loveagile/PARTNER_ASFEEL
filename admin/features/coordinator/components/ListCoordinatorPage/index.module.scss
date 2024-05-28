@@ -1,0 +1,25 @@
+.custom_multi_select :global {
+  .ant-select-selection-search-mirror {
+    @apply h-4 leading-4;
+  }
+}
+
+.custom_multi_select :global {
+  .ant-select-selector:after {
+    @apply leading-4;
+  }
+}
+
+.custom_multi_select:global(.ant-select-multiple) {
+  &:global(.ant-select-show-search) {
+    :global(.ant-select-selector) input {
+      @apply font-normal;
+    }
+  }
+
+  :global {
+    .ant-select-selection-search-input {
+      @apply h-[1.32rem] leading-[1.32rem];
+    }
+  }
+}

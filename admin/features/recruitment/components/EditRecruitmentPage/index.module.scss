@@ -1,0 +1,5 @@
+.check_box_darker {
+  &:global(.ant-checkbox-wrapper-checked) {
+    @apply bg-gray-gray_light;
+  }
+}

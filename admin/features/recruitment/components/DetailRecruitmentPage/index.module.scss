@@ -1,0 +1,61 @@
+.tab {
+  :global {
+    .ant-tabs-nav .ant-tabs-ink-bar {
+      height: 4px;
+    }
+
+    .ant-tabs-tab {
+      width: 100px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .ant-tabs-tab-btn {
+      font-weight: 700;
+      @apply text-gray-gray_dark;
+    }
+
+    .ant-tabs-nav {
+      margin-bottom: 0;
+    }
+  }
+}
+
+:global(.ant-dropdown) {
+  .dropdown_note {
+    padding: 20px 8px 64px 36px;
+
+    .dropdown_note_content {
+      padding-right: 12px;
+      width: 100%;
+      display: inline-block;
+      & > textarea {
+        padding-right: 8px;
+        overflow-y: scroll;
+        &::-webkit-scrollbar {
+          width: 5px;
+        }
+
+        &::-webkit-scrollbar-thumb {
+          @apply rounded-full bg-tools-gray_light;
+        }
+
+        &::-webkit-scrollbar-track {
+          @apply bg-light-yellow_light;
+        }
+      }
+    }
+
+    @apply bg-light-yellow_light;
+
+    :global {
+      .ant-dropdown-menu-item:hover {
+        background-color: transparent;
+      }
+
+      .ant-dropdown-menu-item-active {
+        background-color: transparent !important;
+      }
+    }
+  }
+}

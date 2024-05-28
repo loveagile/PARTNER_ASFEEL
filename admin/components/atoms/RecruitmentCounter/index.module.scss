@@ -1,0 +1,15 @@
+.recruitment_count {
+  @apply flex items-center py-1 pl-[10px] text-xs;
+
+  .counter {
+    margin-right: 16px;
+  }
+
+  .no_count {
+    @apply text-base text-h4 font-bold text-black;
+  }
+
+  &:not(:last-child)::after {
+    @apply block h-[23px] w-[1px] bg-gray-gray content-[''];
+  }
+}

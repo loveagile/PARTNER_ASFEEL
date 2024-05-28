@@ -1,0 +1,114 @@
+/* Common */
+.ant-picker-dropdown .ant-picker-panel-container {
+  @apply rounded;
+}
+
+/* Date Picker Input style */
+.ant-picker .ant-picker-input > input {
+  @apply text-sm text-gray-black;
+}
+
+.ant-picker .ant-picker-suffix {
+  @apply pointer-events-auto text-black/50;
+}
+
+/* Date Picker Popup style */
+
+.custom_popup_date .ant-picker-header-view {
+  @apply -order-1 text-left;
+}
+
+.custom_popup_date .ant-picker-header {
+  @apply gap-2 border-b-transparent py-0 pl-3 pr-4;
+}
+
+.custom_popup_date .ant-picker-panel .ant-picker-footer {
+  @apply border-t-transparent pb-4 pl-4 text-left;
+}
+
+.custom_popup_date .ant-picker-today-btn {
+  @apply text-tools-blue_bold;
+}
+
+.custom_popup_date
+  .ant-picker-cell-in-view.ant-picker-cell-selected
+  .ant-picker-cell-inner {
+  background: transparent;
+}
+
+.custom_popup_date
+  .ant-picker-cell-in-view.ant-picker-cell-selected
+  .ant-picker-cell-inner::before {
+  border-color: transparent;
+}
+
+.custom_popup_date
+  .ant-picker-cell-in-view.ant-picker-cell-today
+  .ant-picker-cell-inner::before {
+  @apply border-tools-blue_bold;
+}
+
+.custom_popup_date .ant-picker-cell-in-view.ant-picker-cell-selected {
+  @apply bg-tools-blue_bold;
+}
+
+.custom_popup_date .ant-picker-header-view button:not(:first-child) {
+  @apply ms-1;
+}
+
+.custom_popup_date .ant-picker-footer-extra:not(:last-child) {
+  @apply border-transparent;
+}
+
+.hidden_super_icon .ant-picker-header-super-prev-btn {
+  display: none;
+}
+
+.hidden_super_icon .ant-picker-header-super-next-btn {
+  display: none;
+}
+
+/* Time picker Input Style */
+
+/* Time picker Popup Style */
+.custom_popup_time .ant-picker-time-panel-column::-webkit-scrollbar {
+  width: 0;
+}
+
+.custom_popup_time .ant-picker-time-panel .ant-picker-content {
+  @apply h-full max-h-80;
+}
+
+.custom_popup_time .ant-picker-panel-container {
+  @apply px-4 py-2;
+}
+
+.custom_popup_time
+  .ant-picker-time-panel-column
+  > li.ant-picker-time-panel-cell
+  .ant-picker-time-panel-cell-inner {
+  @apply h-10 w-full rounded-sm ps-0 text-center text-sm leading-10;
+}
+
+.custom_popup_time
+  .ant-picker-time-panel-column
+  > li.ant-picker-time-panel-cell-selected
+  .ant-picker-time-panel-cell-inner {
+  @apply bg-tools-blue_bold font-bold text-white;
+}
+
+.custom_popup_time
+  .ant-picker-time-panel-column
+  > li.ant-picker-time-panel-cell-selected
+  .ant-picker-time-panel-cell-inner:hover {
+  @apply bg-tools-blue_bold;
+}
+
+.custom_popup_time .ant-picker-time-panel-column {
+  @apply border-s-transparent !important;
+  @apply w-[3.75rem];
+}
+
+.custom_popup_time .ant-picker-footer {
+  display: none;
+}

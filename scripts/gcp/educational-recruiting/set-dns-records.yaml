@@ -1,0 +1,329 @@
+---
+kind: dns#resourceRecordSet
+name: "dev-hokkaido-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-aomori-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-iwate-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-miyagi-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-akita-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-yamagata-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-fukushima-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-ibaraki-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-tochigi-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-gunma-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-saitama-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-chiba-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-tokyo-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-kanagawa-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-niigata-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-toyama-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-ishikawa-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-fukui-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-yamanashi-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-nagano-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-gifu-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-shizuoka-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-aichi-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-mie-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-shiga-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-kyoto-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-osaka-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-hyogo-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-nara-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-wakayama-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-tottori-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-shimane-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-okayama-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-hiroshima-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-yamaguchi-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-tokushima-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-kagawa-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-ehime-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-kochi-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-fukuoka-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-saga-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-nagasaki-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-kumamoto-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-oita-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-miyazaki-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-kagoshima-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "dev-okinawa-educational-recruiting.spocul-bank.jp."
+rrdatas:
+  - "34.36.232.252"
+ttl: 300
+type: A

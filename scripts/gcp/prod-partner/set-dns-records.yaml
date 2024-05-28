@@ -1,0 +1,329 @@
+---
+kind: dns#resourceRecordSet
+name: "hokkaido-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "aomori-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "iwate-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "miyagi-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "akita-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "yamagata-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "fukushima-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "ibaraki-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "tochigi-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "gunma-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "saitama-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "chiba-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "tokyo-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "kanagawa-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "niigata-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "toyama-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "ishikawa-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "fukui-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "yamanashi-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "nagano-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "gifu-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "shizuoka-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "aichi-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "mie-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "shiga-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "kyoto-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "osaka-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "hyogo-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "nara-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "wakayama-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "tottori-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "shimane-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "okayama-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "hiroshima-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "yamaguchi-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "tokushima-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "kagawa-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "ehime-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "kochi-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "fukuoka-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "saga-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "nagasaki-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "kumamoto-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "oita-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "miyazaki-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "kagoshima-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A
+---
+kind: dns#resourceRecordSet
+name: "okinawa-partner.spocul-bank.jp."
+rrdatas:
+  - "34.149.14.90"
+ttl: 300
+type: A

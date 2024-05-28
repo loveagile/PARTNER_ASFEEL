@@ -1,0 +1,30 @@
+.wrapper {
+  :global {
+    .ant-checkbox .ant-checkbox-inner {
+      border-radius: 2px;
+    }
+
+    .large_filter_checkbox {
+      .ant-checkbox + span {
+        @apply pr-0;
+      }
+    }
+  }
+
+  .scout_btn {
+    @apply min-w-[70px] bg-core-blue_dark p-0 text-white;
+
+    &:not(:disabled):not(.ant-btn-disabled):hover {
+      @apply bg-core-blue_dark text-white;
+    }
+  }
+}
+
+.select_user_modal {
+  :global {
+    .ant-modal-footer {
+      display: flex;
+      justify-content: center;
+    }
+  }
+}

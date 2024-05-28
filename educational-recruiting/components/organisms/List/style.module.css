@@ -1,0 +1,24 @@
+.expandable-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+  
+.expandable-list-item .expandable-list-header {
+    cursor: pointer;
+}
+  
+.expandable-list-item .expandable-list-children {
+    list-style-type: none;
+    margin: 0;
+    padding-left: 20px;
+}
+  
+.arrow-icon {
+    display: inline-block;
+    transition: transform 0.3s ease;
+}
+  
+.arrow-icon.expanded {
+    transform: rotate(90deg);
+}

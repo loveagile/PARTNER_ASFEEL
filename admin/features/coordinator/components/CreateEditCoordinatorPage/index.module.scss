@@ -1,0 +1,11 @@
+.select_school_input {
+  :global {
+    .ant-select-selector {
+      @apply h-[2.25rem] #{!important};
+    }
+
+    .ant-select-selection-placeholder {
+      @apply text-gray-black;
+    }
+  }
+}

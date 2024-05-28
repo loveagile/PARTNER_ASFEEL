@@ -1,0 +1,85 @@
+.wrapper {
+  :global {
+    .ant-checkbox .ant-checkbox-inner {
+      border-radius: 2px;
+    }
+
+    .large_filter_checkbox {
+      .ant-checkbox + span {
+        @apply pr-0;
+      }
+    }
+  }
+
+  .scout_btn {
+    @apply min-w-[70px] bg-core-blue_dark p-0 text-white;
+
+    &:not(:disabled):not(.ant-btn-disabled):hover {
+      @apply bg-core-blue_dark text-white;
+    }
+  }
+}
+
+.modal_detail_candidate {
+  margin: 0 0 0 auto;
+  top: 64px;
+  padding: 0;
+
+  :global {
+    .ant-modal-content {
+      padding: 0;
+      height: calc(100vh - 64px);
+      overflow-y: scroll;
+      overflow-x: hidden;
+      border-radius: 0;
+
+      &::-webkit-scrollbar {
+        width: 5px;
+      }
+
+      &::-webkit-scrollbar-thumb {
+        @apply rounded-full bg-tools-gray_light;
+      }
+
+      &::-webkit-scrollbar-track {
+        @apply bg-transparent;
+      }
+    }
+  }
+}
+
+.tab {
+  :global {
+    .ant-tabs-nav .ant-tabs-ink-bar {
+      height: 4px;
+    }
+
+    .ant-tabs-tab {
+      width: 100px;
+      display: flex;
+      justify-content: center;
+    }
+
+    .ant-tabs-tab-btn {
+      font-weight: 700;
+      @apply text-gray-gray_dark;
+    }
+
+    .ant-tabs-nav {
+      margin-bottom: 0;
+    }
+
+    .ant-tabs-content-holder {
+      padding: 20px 30px;
+    }
+  }
+}
+
+.select_user_modal {
+  :global {
+    .ant-modal-footer {
+      display: flex;
+      justify-content: center;
+    }
+  }
+}

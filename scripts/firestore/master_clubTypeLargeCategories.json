@@ -1,0 +1,16 @@
+[
+  {
+    "id": "oPSsTOVpxegNiC0oa8zB",
+    "createdAt": 1687147200990,
+    "updatedAt": 1687147200550,
+    "name": "文化系",
+    "order": 2
+  },
+  {
+    "id": "tybsF7H5A4LahHYOCecg",
+    "createdAt": 1687147200030,
+    "updatedAt": 1687147200071,
+    "name": "運動系",
+    "order": 1
+  }
+]

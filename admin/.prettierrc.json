@@ -1,0 +1,20 @@
+{
+  "semi": false,
+  "singleQuote": true,
+  "printWidth": 80,
+  "plugins": ["prettier-plugin-tailwindcss"],
+  "overrides": [
+    {
+      "files": ["features/estimate/pages/EstimatePdfPage.tsx"],
+      "options": {
+        "printWidth": 120
+      }
+    },
+    {
+      "files": ["libs/firebase/firestore.ts"],
+      "options": {
+        "printWidth": 200
+      }
+    }
+  ]
+}
